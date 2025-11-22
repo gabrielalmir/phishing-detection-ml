@@ -1,0 +1,66 @@
+{
+  "name": "Vesper Dark",
+  "dataColors": [
+    "#FFC799",
+    "#A0A0A0",
+    "#FFFFFF",
+    "#343434",
+    "#565656",
+    "#787878",
+    "#9A9A9A",
+    "#BCBCBC"
+  ],
+  "background": "#101010",
+  "foreground": "#A0A0A0",
+  "tableAccent": "#FFC799",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontSize": 10,
+            "fontFamily": "Segoe UI",
+            "color": { "solid": { "color": "#A0A0A0" } }
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "background": { "solid": { "color": "#101010" } },
+            "alignment": "left",
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#101010" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#101010" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#101010" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
