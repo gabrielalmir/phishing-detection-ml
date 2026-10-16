@@ -1,5 +1,7 @@
 # 🛡️ Phishing Detection ML
 
+> **Status:** Projeto acadêmico concluído. Este repositório é mantido como registro de estudo e não está em desenvolvimento ativo.
+
 Este projeto foi desenvolvido como parte das atividades acadêmicas da FATEC, simulando a aplicação de Ciência de Dados em Segurança da Informação (Cybersecurity). O objetivo é construir um classificador capaz de detectar URLs maliciosas (Phishing) utilizando o algoritmo Naive Bayes.
 
 ![Power BI Report](./reports/power-bi-report.png)
